@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium import subdriver
 import time
 
-id = "mariafernanda.manzarron.menez@gmail.com"
+id = "tucorreo@gmail.com"
 password= "PruebaSelenium1"
 
 # usr=input('Enter Email Id:')
