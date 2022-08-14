@@ -66,7 +66,7 @@ def get_messages(chats):
             j += 1
 
 #user credentials
-id = "mariafernanda.manzarron.menez@gmail.com"
+id = "tucorreo@gmail.com"
 password= "PruebaSelenium1"
 #creating driver object using Chrome
 driver = webdriver.Chrome(executable_path=r"C:\\Program Files (x86)\\chromedriver.exe")
